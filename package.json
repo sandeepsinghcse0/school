@@ -21,6 +21,7 @@
   "homepage": "https://github.com/sandeepsinghcse0/school#readme",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "parse-request": "^2.0.3"
   }
 }
